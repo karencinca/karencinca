@@ -1,7 +1,7 @@
-### Hi! My name is Karen 👋
+### Hi! I'm Karen 👋
 
+- 👩‍💻 Studying web development
 - 🌱 I’m currently learning React
-- 😄 Pronouns: she/her
 
 <div>
   <a href="https://github.com/karencinca">
