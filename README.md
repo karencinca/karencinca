@@ -1,6 +1,5 @@
 ### Hi! My name is Karen 👋
 
-- 👩‍💻 Front-end developer 
 - 🌱 I’m currently learning React
 - 😄 Pronouns: she/her
 
