@@ -1,10 +1,10 @@
- <h2> Karen Cinca </h2>
+ <h2> Karen Cinca 👋</h2>
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width=300 align="right">
 
 <div align="left"> 
-<p>Professora em transição de carreira e em constante aprendizado, cursando Análise e Desenvolvimento de Sistemas. Aqui deixo registrado meus trabalhos da faculdade e projetos pessoais.
-<p>👩‍💻 Estudos com foco em desenvolvimento web</p>
-<p>💻 Atualmente trabalhando em projetos com Next.js e Node.js</p>
+<p>Em transição de carreira e em constante aprendizado, estou cursando Análise e Desenvolvimento de Sistemas e buscando oportunidades para me desafiar e evoluir. Aqui deixo registrado meus trabalhos da faculdade e projetos pessoais.
+<p>✨ Estudos com foco em desenvolvimento web</p>
+<p>✨ Atualmente trabalhando em projetos com Next.js e Node.js</p>
 </div>
 
 #
@@ -20,9 +20,7 @@
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" >
 </div>
 
-
 #
-
 <div align="left">
  <h4>Onde me encontrar:</h4>
   <a href="https://www.linkedin.com/in/karen-cinca-301807269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
