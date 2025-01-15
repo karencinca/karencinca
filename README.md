@@ -1,8 +1,9 @@
- <h2> Karen Cinca 👋</h2>
+<h2> Karen Cinca 👋</h2>
+
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width=300 align="right">
 
 <div align="left"> 
-<p>Em transição de carreira e em constante aprendizado, estou cursando Análise e Desenvolvimento de Sistemas e buscando oportunidades para me desafiar e evoluir. Aqui deixo registrado meus trabalhos da faculdade e projetos pessoais.
+<p>Em transição de carreira e em constante aprendizado, estou cursando Análise e Desenvolvimento de Sistemas e buscando oportunidades para me desafiar e evoluir. Aqui deixo registrado meus trabalhos da faculdade e projetos pessoais. </p>
 <p>✨ Estudos com foco em desenvolvimento web</p>
 <p>✨ Atualmente trabalhando em projetos com Next.js e Node.js</p>
 </div>
